@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Post Instagram — Conceição Duarte</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1080px;
+    height: 1080px;
+    overflow: hidden;
+    background-color: #1A1517;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card {
+    width: 1080px;
+    height: 1080px;
+    background-color: #1A1517;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 80px;
+  }
+
+  /* Linha decorativa superior */
+  .linha-topo {
+    position: absolute;
+    top: 60px;
+    left: 80px;
+    right: 80px;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #C4926A, transparent);
+  }
+
+  /* Linha decorativa inferior */
+  .linha-base {
+    position: absolute;
+    bottom: 60px;
+    left: 80px;
+    right: 80px;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #C4926A, transparent);
+  }
+
+  .conteudo {
+    text-align: center;
+    max-width: 860px;
+  }
+
+  /* Ícone decorativo acima do título (opcional) */
+  .icone {
+    font-size: 32px;
+    color: #C4926A;
+    margin-bottom: 40px;
+    letter-spacing: 8px;
+    opacity: 0.7;
+  }
+
+  /* TÍTULO PRINCIPAL — edite aqui */
+  .titulo {
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    font-size: 62px;
+    line-height: 1.2;
+    color: #E8B4B0;
+    margin-bottom: 36px;
+    letter-spacing: 1px;
+  }
+
+  /* SUBTÍTULO — edite aqui */
+  .subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.5;
+    color: #C4926A;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  /* Logo no canto inferior direito */
+  .logo {
+    position: absolute;
+    bottom: 80px;
+    right: 80px;
+    opacity: 0.85;
+  }
+
+  .logo img {
+    height: 80px;
+    width: auto;
+  }
+
+  /* Nome no canto inferior esquerdo */
+  .nome {
+    position: absolute;
+    bottom: 88px;
+    left: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #C4926A;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    opacity: 0.7;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+
+  <div class="linha-topo"></div>
+
+  <div class="conteudo">
+    <div class="icone">⚖</div>
+
+    <!-- ✏️ EDITE AQUI: Título do post -->
+    <h1 class="titulo">Juros altos no empréstimo?<br>Isso pode ser ilegal.</h1>
+
+    <!-- ✏️ EDITE AQUI: Subtítulo -->
+    <p class="subtitulo">Você tem direito de revisar.</p>
+  </div>
+
+  <!-- Nome da advogada -->
+  <div class="nome">Conceição Duarte</div>
+
+  <!-- ✏️ Se tiver o logo em PNG, coloque na pasta marca/ e descomente a linha abaixo -->
+  <!-- <div class="logo"><img src="../../marca/logo.png" alt="Logo"></div> -->
+
+  <div class="linha-base"></div>
+
+</div>
+</body>
+</html>
