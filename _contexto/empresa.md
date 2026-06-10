@@ -1,6 +1,8 @@
 # Contexto da Empresa — Conceição Duarte Advocacia
 
 **Nome:** Conceição Maria Duarte Portilho
+**OAB:** OAB/AP nº 3576
+**Endereço:** Av. Aimorés, 67, Beirol, Macapá/AP, CEP 68902-140
 **Negócio:** Conceição Duarte Advocacia e Consultoria Jurídica
 **O que faz:** Advocacia e consultoria jurídica, atendendo clientes externos com foco em Direito Bancário
 **Perfil:** freelancer (escritório solo)
