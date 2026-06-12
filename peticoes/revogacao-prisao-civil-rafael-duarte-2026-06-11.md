@@ -110,6 +110,40 @@ conceicaoduarte.adv@gmail.com | (96) 9 8138-1828
 
 ---
 
+---
+
+# MINUTA DE ALVARÁ DE SOLTURA
+## (Para assinatura de Vossa Excelência)
+
+**TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO**
+**3ª VARA DA FAMÍLIA E SUCESSÕES DA COMARCA DE BAURU**
+
+**ALVARÁ DE SOLTURA**
+
+**Processo nº 0006649-25.2024.8.26.0071**
+
+O(A) MERITÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DE DIREITO DA 3ª VARA DA FAMÍLIA E SUCESSÕES DA COMARCA DE BAURU — ESTADO DE SÃO PAULO
+
+**MANDA** a qualquer Autoridade Policial ou agente de segurança pública que, tendo o presente em mãos, **SOLTE e PONHA IMEDIATAMENTE EM LIBERDADE** — salvo se por outro motivo estiver preso — a pessoa de:
+
+> **RAFAEL DA SILVA DUARTE**
+> CPF: 907.963.903-63 | RG: 256542414-06
+> Nascido em: 24/09/1982
+> Residente: Avenida dos Aimorés, nº 67, A, Beirol, Macapá/AP — CEP 68.902-140
+
+que se encontrava preso nos termos do **Mandado de Prisão Civil nº 0006649-25.2024.8.26.0071.01.0005-27**, expedido em 02 de junho de 2026, por dívida alimentar.
+
+**Fundamento:** Pagamento das 3 (três) últimas prestações alimentícias vencidas, nos termos do art. 528, §6º, do Código de Processo Civil e da Súmula 309 do Superior Tribunal de Justiça, dando-se por livre e revogado o mandado de prisão civil supramencionado.
+
+Bauru/SP, _____ de _________________ de 2026.
+
+___________________________________________
+**MARIO RAMOS DOS SANTOS**
+Juiz de Direito — 3ª Vara da Família e Sucessões
+Comarca de Bauru — TJSP
+
+---
+
 > **⚠ ATENÇÃO — campos a preencher antes de protocolar:**
 > - `[VALOR DAS 3 ÚLTIMAS PARCELAS]` → confirmar o valor da parcela mensal e calcular as 3 últimas em aberto
 > - Juntar comprovante de pagamento das 3 parcelas
