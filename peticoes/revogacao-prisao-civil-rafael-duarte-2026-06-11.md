@@ -38,7 +38,7 @@ A Súmula 309 do Superior Tribunal de Justiça delimita o âmbito da prisão civ
 
 O saldo restante — relativo a prestações anteriores ao tríplice período autorizado para a coerção pessoal — **não legitima a privação da liberdade**, devendo ser cobrado pelos meios ordinários da execução por quantia certa (CPC arts. 824 e ss.), vedado seu uso para sustentar mandado de prisão civil (STJ, AgInt no HC 796.041/MS, rel. Min. Marco Buzzi, 2023).
 
-In casu, o Executado realizou o pagamento das 3 (três) últimas parcelas, no valor total de **R$ [VALOR DAS 3 ÚLTIMAS PARCELAS — juntar comprovante]**, conforme comprovante em anexo, razão pela qual o mandado de prisão deve ser imediatamente revogado.
+In casu, o Executado realizou o pagamento das 3 (três) últimas parcelas, no valor total de **R$ 3.802,19 (três mil oitocentos e dois reais e dezenove centavos)**, correspondente a 3 (três) prestações mensais de R$ 1.267,40 cada, conforme comprovante em anexo, razão pela qual o mandado de prisão deve ser imediatamente revogado.
 
 ---
 
@@ -82,7 +82,7 @@ O valor total anotado na ordem de prisão — R$ 19.043,54 — representa débit
 
 Ante o exposto, requer o Executado a Vossa Excelência:
 
-**a) PEDIDO PRINCIPAL:** A **revogação imediata do Mandado de Prisão Civil nº 0006649-25.2024.8.26.0071.01.0005-27**, nos termos do art. 528, §6º, do CPC, ante a comprovação do pagamento das 3 (três) últimas prestações alimentícias vencidas, no valor de R$ [VALOR], conforme comprovante em anexo;
+**a) PEDIDO PRINCIPAL:** A **revogação imediata do Mandado de Prisão Civil nº 0006649-25.2024.8.26.0071.01.0005-27**, nos termos do art. 528, §6º, do CPC, ante a comprovação do pagamento das 3 (três) últimas prestações alimentícias vencidas, no valor total de **R$ 3.802,19**, conforme comprovante em anexo;
 
 **b) PEDIDO SUBSIDIÁRIO 1:** Caso V. Exa. entenda necessária a manutenção de medida coercitiva, que seja determinada a **substituição da prisão civil por medidas alternativas** previstas no art. 139, IV, do CPC — protesto do pronunciamento judicial, negativação nos órgãos de proteção ao crédito, suspensão de carteira de habilitação e/ou passaporte —, em atenção à condição de pessoa com TEA Grau 2 do Executado, garantindo-lhe tratamento compatível com a dignidade humana e com as leis de proteção à pessoa com deficiência;
 
@@ -144,8 +144,7 @@ Comarca de Bauru — TJSP
 
 ---
 
-> **⚠ ATENÇÃO — campos a preencher antes de protocolar:**
-> - `[VALOR DAS 3 ÚLTIMAS PARCELAS]` → confirmar o valor da parcela mensal e calcular as 3 últimas em aberto
-> - Juntar comprovante de pagamento das 3 parcelas
+> **⚠ ATENÇÃO — pendente antes de protocolar:**
+> - Juntar comprovante de pagamento das 3 parcelas (R$ 3.802,19)
 > - Juntar laudo médico de TEA Grau 2
 > - Protocolar via e-SAJ TJSP (processo eletrônico — comarca de Bauru/SP)
