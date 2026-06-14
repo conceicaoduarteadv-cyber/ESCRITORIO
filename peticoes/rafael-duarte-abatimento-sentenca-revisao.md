@@ -97,6 +97,16 @@ O art. 493 do CPC impõe ao juiz a consideração de fatos supervenientes releva
 
 ---
 
+### 2.5 Do parcelamento do saldo remanescente
+
+O art. 528, caput, do CPC, ao tratar da execução de alimentos, confere ao juízo ampla margem para adequar a forma de cumprimento da obrigação à realidade fática do devedor. O Executado demonstrou inequívoca boa-fé ao liquidar o valor integral de R$ 19.043,54 exigido no mandado de prisão. O saldo remanescente de R$ 3.461,91 — já reduzido após os abatimentos ora requeridos — é compatível com parcelamento em 3 (três) prestações mensais, sem que isso comprometa os interesses do alimentando, que continuará recebendo regularmente a pensão mensal de R$ 534,60.
+
+A condição de músico autônomo do Executado, aliada ao diagnóstico de Transtorno do Espectro Autista Grau 2 (TEA), impõe interpretação proporcional e humanizada da execução, em observância ao princípio da menor onerosidade ao devedor (CPC 805) e à Convenção sobre os Direitos das Pessoas com Deficiência (Decreto n.º 6.949/2009).
+
+### 2.6 Do desbloqueio das contas bancárias — CPC 854, § 2º
+
+Determinado o bloqueio de ativos para garantia do débito alimentar, e tendo o Executado quitado o valor integral de R$ 19.043,54, a manutenção dos bloqueios via SISBAJUD/BACENJUD deixa de ter amparo legal e fático. O art. 854, § 2º, do CPC autoriza o cancelamento da constrição quando o valor bloqueado for excessivo ou quando o débito tiver sido satisfeito. A manutenção das contas bloqueadas após o pagamento integral priva o Executado de acesso à sua renda e compromete sua subsistência, configurando constrangimento ilegal que deve ser cessado.
+
 ## III — DO RECÁLCULO DO SALDO REMANESCENTE
 
 Consolidados os excessos apurados, o abatimento total deve ser aplicado sobre o saldo remanescente de R$ 6.167,64:
@@ -132,7 +142,19 @@ Ante o exposto, requer o Executado:
 
 **f)** Que a parte credora seja intimada para apresentar **nova planilha atualizada**, com os valores corretos conforme a sentença de redução e com o abatimento dos excessos ora demonstrados, no prazo legal;
 
-**g)** O reconhecimento da **quitação integral do débito** caso, após o recálculo, o valor correto do saldo remanescente seja igual ou inferior ao total de excesso pago (R$ 2.705,73).
+**g)** O reconhecimento da **quitação integral do débito** caso, após o recálculo, o valor correto do saldo remanescente seja igual ou inferior ao total de excesso pago (R$ 2.705,73);
+
+**h)** O **parcelamento do saldo remanescente** de **R$ 3.461,91** em **3 (três) parcelas mensais iguais e sucessivas de R$ 1.153,97** (um mil, cento e cinquenta e três reais e noventa e sete centavos), com vencimento no dia [DIA] de cada mês, a partir do mês subsequente ao deferimento, a serem depositadas diretamente na conta indicada pela parte credora — medida que se justifica pela demonstração de boa-fé do Executado, que quitou integralmente o valor de R$ 19.043,54 exigido no mandado de prisão, pela limitação de sua capacidade contributiva (renda como músico autônomo) e por sua condição de saúde (Transtorno do Espectro Autista — TEA Grau 2), nos termos do princípio da proporcionalidade e do art. 528 do CPC;
+
+**i)** O **desbloqueio imediato de todas as contas bancárias e ativos financeiros do Executado** eventualmente bloqueados por determinação judicial nestes autos via SISBAJUD/BACENJUD, pelos seguintes fundamentos:
+
+> (i) o débito que motivou os bloqueios foi **integralmente pago** no valor de R$ 19.043,54;
+>
+> (ii) o saldo remanescente de R$ 3.461,91 está sendo objeto de **proposta de parcelamento** na forma do item "h" supra, demonstrando plena disposição de adimplência;
+>
+> (iii) a manutenção do bloqueio sobre a integralidade das contas após o pagamento do débito principal é **desproporcional e causa prejuízo irreparável** ao Executado, que necessita das contas para receber sua remuneração e custear sua subsistência e tratamento de saúde;
+>
+> (iv) nos termos do art. 854, § 2º, do CPC, o juiz poderá determinar o cancelamento da penhora quando o valor bloqueado for excessivo em relação ao débito remanescente.
 
 Termos em que,
 
