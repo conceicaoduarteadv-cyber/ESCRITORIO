@@ -41,7 +41,7 @@ Considerando o salário mínimo de R$ 1.620,00 vigente em 2026:
 
 > **33% × R$ 1.620,00 = R$ 534,60 por mês (valor correto)**
 
-A tabela a seguir demonstra o excesso cobrado e pago indevidamente:
+A tabela a seguir demonstra o excesso cobrado e pago indevidamente na planilha:
 
 | Mês | Valor cobrado (planilha) | Valor devido (sentença revisional) | Excesso pago |
 |---|---|---|---|
@@ -53,7 +53,13 @@ O Executado pagou **R$ 2.170,80 (dois mil, cento e setenta reais e oitenta centa
 
 Acrescenta-se que, em abril/2026, o Executado já havia efetuado pagamento de R$ 534,00 — valor equivalente aos 33% fixados na sentença revisional —, o que evidencia que a obrigação do mês de abril já havia sido cumprida segundo o valor correto.
 
-### 1.4 Do saldo remanescente cobrado indevidamente no valor de R$ 6.167,64
+### 1.4 Do pagamento em duplicidade de maio/2026 — depósito direto na conta da genitora
+
+Além do excesso decorrente do erro da planilha, o Executado efetuou **dois depósitos de R$ 534,93 (quinhentos e trinta e quatro reais e noventa e três centavos) diretamente na conta bancária da genitora do alimentando**, ambos com referência ao mês de **maio de 2026** (Doc. 03 — comprovantes dos dois depósitos).
+
+Tratando-se de evidente **pagamento em duplicidade**, o segundo depósito de R$ 534,93 constitui pagamento indevido nos termos do art. 876 do Código Civil, devendo seu valor ser integralmente abatido do saldo remanescente.
+
+### 1.5 Do saldo remanescente cobrado indevidamente no valor de R$ 6.167,64
 
 Não obstante o pagamento integral de R$ 19.043,54, a parte credora apresenta saldo remanescente de **R$ 6.167,64** (seis mil, cento e sessenta e sete reais e sessenta e quatro centavos).
 
@@ -61,7 +67,9 @@ Esse saldo deve ser obrigatoriamente submetido a revisão, pois:
 
 **(a)** O pagamento de R$ 19.043,54 foi realizado com **excesso de R$ 2.170,80**, valor este que deve ser imediatamente creditado e abatido do saldo remanescente;
 
-**(b)** Qualquer parcela do saldo remanescente que corresponda a período posterior a **13/04/2026** deve ser calculada à razão de **R$ 534,60/mês** (33% do salário mínimo), e não ao valor de R$ 1.620,00 anteriormente aplicado.
+**(b)** Há ainda o **pagamento em duplicidade de R$ 534,93** referente a maio/2026, efetuado diretamente na conta da genitora do alimentando, cujo valor igualmente deve ser abatido;
+
+**(c)** Qualquer parcela do saldo remanescente que corresponda a período posterior a **13/04/2026** deve ser calculada à razão de **R$ 534,60/mês** (33% do salário mínimo), e não ao valor de R$ 1.620,00 anteriormente aplicado.
 
 ---
 
@@ -91,13 +99,16 @@ O art. 493 do CPC impõe ao juiz a consideração de fatos supervenientes releva
 
 ## III — DO RECÁLCULO DO SALDO REMANESCENTE
 
-Demonstrado o excesso de R$ 2.170,80 embutido no pagamento de R$ 19.043,54, o abatimento deve ser aplicado sobre o saldo remanescente de R$ 6.167,64:
+Consolidados os excessos apurados, o abatimento total deve ser aplicado sobre o saldo remanescente de R$ 6.167,64:
 
 | Item | Valor |
 |---|---|
 | Saldo remanescente cobrado | R$ 6.167,64 |
-| (−) Excesso pago em abril e maio/2026 | R$ 2.170,80 |
-| **Saldo remanescente correto** | **R$ 3.996,84** |
+| (−) Excesso da planilha — abril/2026 (R$ 1.620 − R$ 534,60) | R$ 1.085,40 |
+| (−) Excesso da planilha — maio/2026 (R$ 1.620 − R$ 534,60) | R$ 1.085,40 |
+| (−) Pagamento duplicado de maio/2026 (depósito direto na conta da genitora) | R$ 534,93 |
+| **Total de excesso a abater** | **R$ 2.705,73** |
+| **Saldo remanescente correto** | **R$ 3.461,91** |
 
 Ademais, caso o saldo remanescente de R$ 6.167,64 inclua parcelas de período posterior a abril/2026, cada uma delas deve ser recalculada à razão de **R$ 534,60/mês**, nos termos da sentença revisional.
 
@@ -113,13 +124,15 @@ Ante o exposto, requer o Executado:
 
 **b)** O reconhecimento do **excesso de R$ 2.170,80** pago indevidamente, decorrente do erro da planilha de 18/05/2026, que utilizou o valor de R$ 1.620,00 para os meses de abril e maio de 2026 em desacordo com a sentença revisional então vigente;
 
-**c)** O **abatimento de R$ 2.170,80 do saldo remanescente de R$ 6.167,64**, reduzindo-o para **R$ 3.996,84** (três mil, novecentos e noventa e seis reais e oitenta e quatro centavos);
+**c)** O reconhecimento do **pagamento em duplicidade de R$ 534,93** referente ao mês de maio/2026, efetuado diretamente na conta bancária da genitora do alimentando, conforme comprovantes (Doc. 03);
 
-**d)** A **revisão de qualquer parcela do saldo remanescente** correspondente a período posterior a abril/2026, adotando-se o valor de **R$ 534,60/mês** como base de cálculo, em observância à sentença revisional;
+**d)** O **abatimento do total de R$ 2.705,73 do saldo remanescente de R$ 6.167,64**, reduzindo-o para **R$ 3.461,91** (três mil, quatrocentos e sessenta e um reais e noventa e um centavos), nos termos discriminados no item III desta petição;
 
-**e)** Que a parte credora seja intimada para apresentar **nova planilha atualizada**, com os valores corretos conforme a sentença de redução, no prazo legal;
+**e)** A **revisão de qualquer parcela do saldo remanescente** correspondente a período posterior a abril/2026, adotando-se o valor de **R$ 534,60/mês** como base de cálculo, em observância à sentença revisional;
 
-**f)** O reconhecimento da **quitação integral do débito** caso, após o recálculo, o valor correto do saldo remanescente seja igual ou inferior ao excesso pago (R$ 2.170,80).
+**f)** Que a parte credora seja intimada para apresentar **nova planilha atualizada**, com os valores corretos conforme a sentença de redução e com o abatimento dos excessos ora demonstrados, no prazo legal;
+
+**g)** O reconhecimento da **quitação integral do débito** caso, após o recálculo, o valor correto do saldo remanescente seja igual ou inferior ao total de excesso pago (R$ 2.705,73).
 
 Termos em que,
 
@@ -136,3 +149,4 @@ conceicaoduarte.adv@gmail.com
 *Documentos que acompanham esta petição:*
 - Doc. 01 — Comprovante de pagamento de R$ 19.043,54
 - Doc. 02 — Sentença de 13/04/2026 — Processo n.º 6025450-05.2025.8.03.0001 — TJAP
+- Doc. 03 — Comprovantes dos dois depósitos de R$ 534,93 na conta da genitora (pagamento duplicado de maio/2026)
