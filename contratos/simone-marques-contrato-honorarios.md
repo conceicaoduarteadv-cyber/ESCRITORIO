@@ -12,7 +12,17 @@
 
 A CONTRATADA se obriga a prestar serviços advocatícios à CONTRATANTE, compreendendo o acompanhamento, elaboração de peças processuais e demais atos necessários para a defesa dos interesses da CONTRATANTE referente a:
 
-> Ação Revisional de Contrato Bancário em face do **Banco Midway S.A.**, visando à revisão judicial de cláusulas contratuais abusivas, com fundamento no Código de Defesa do Consumidor (Lei nº 8.078/90) e no Código Civil (Lei nº 10.406/02), pleiteando: (i) redução de taxas de juros remuneratórios e moratórios acima da média de mercado divulgada pelo Banco Central do Brasil; (ii) afastamento da capitalização de juros (juros sobre juros) não autorizada contratualmente; (iii) restituição em dobro ou simples dos valores cobrados indevidamente, com correção monetária e juros legais; (iv) exclusão de tarifas e encargos abusivos; e (v) condenação em danos morais, se aplicável.
+> Ação Revisional de Contratos Bancários em face de **MIDWAY S.A. — CRÉDITO, FINANCIAMENTO E INVESTIMENTO** (CNPJ nº 09.464.032/0001-12), referente às seguintes Cédulas de Crédito Bancário (CCB):
+>
+> | CCB nº | Data Emissão | Valor Líquido Liberado | Taxa de Juros (mês) | Total a Pagar | Parcelas |
+> |--------|-------------|----------------------|---------------------|---------------|----------|
+> | 75805602 | 18/02/2026 | R$ 5.000,00 | 13,75% | R$ 23.251,80 | 30x R$ 775,06 |
+> | 75825597 | 09/03/2026 | R$ 6.372,78 | 13,75% | R$ 29.838,00 | 30x R$ 994,60 |
+> | 75879070 | 27/04/2026 | R$ 1.600,00 | 14,99% | R$ 3.100,00 | 8x R$ 387,50 |
+>
+> **Total recebido: R$ 12.972,78 — Total a pagar: R$ 56.189,80**
+>
+> Os pedidos visam: (i) redução das taxas de juros remuneratórios praticadas acima da média de mercado divulgada pelo Banco Central do Brasil; (ii) afastamento da capitalização mensal de juros (anatocismo) expressamente prevista na cláusula 2 das CCBs; (iii) revisão e restituição dos valores cobrados a título de Seguro Prestamista (R$ 350,00 + R$ 446,09 + R$ 112,00 = R$ 908,09) contratado em caráter de venda casada; (iv) recálculo do IOF embutido no valor financiado; (v) restituição simples ou em dobro (CDC art. 42, parágrafo único) dos valores cobrados indevidamente; e (vi) condenação em danos morais, se aplicável.
 
 ---
 
