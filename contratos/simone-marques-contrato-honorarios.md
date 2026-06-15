@@ -12,7 +12,7 @@
 
 A CONTRATADA se obriga a prestar serviços advocatícios à CONTRATANTE, compreendendo o acompanhamento, elaboração de peças processuais e demais atos necessários para a defesa dos interesses da CONTRATANTE referente a:
 
-> Ação Revisional de Contrato Bancário em face de instituição financeira a ser identificada, visando à revisão judicial de cláusulas contratuais abusivas, com fundamento no Código de Defesa do Consumidor (Lei nº 8.078/90) e no Código Civil (Lei nº 10.406/02), pleiteando: (i) redução de taxas de juros remuneratórios e moratórios acima da média de mercado divulgada pelo Banco Central do Brasil; (ii) afastamento da capitalização de juros (juros sobre juros) não autorizada contratualmente; (iii) restituição em dobro ou simples dos valores cobrados indevidamente, com correção monetária e juros legais; (iv) exclusão de tarifas e encargos abusivos; e (v) condenação em danos morais, se aplicável.
+> Ação Revisional de Contrato Bancário em face do **Banco Midway S.A.**, visando à revisão judicial de cláusulas contratuais abusivas, com fundamento no Código de Defesa do Consumidor (Lei nº 8.078/90) e no Código Civil (Lei nº 10.406/02), pleiteando: (i) redução de taxas de juros remuneratórios e moratórios acima da média de mercado divulgada pelo Banco Central do Brasil; (ii) afastamento da capitalização de juros (juros sobre juros) não autorizada contratualmente; (iii) restituição em dobro ou simples dos valores cobrados indevidamente, com correção monetária e juros legais; (iv) exclusão de tarifas e encargos abusivos; e (v) condenação em danos morais, se aplicável.
 
 ---
 
