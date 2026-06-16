@@ -169,7 +169,23 @@ A Autora pretende provar o alegado por todos os meios de prova em direito admiti
 
 ---
 
-## V — DO VALOR DA CAUSA
+## V — DA GRATUIDADE DA JUSTIÇA
+
+A Autora é pessoa física hipossuficiente, sem condições de arcar com as custas processuais e os honorários periciais sem prejuízo do próprio sustento e de sua família.
+
+Nos termos do art. 98 do Código de Processo Civil, a pessoa natural que não possua recursos suficientes para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.
+
+A declaração de hipossuficiência prestada pela parte goza de presunção relativa de veracidade, cabendo ao réu, se quiser, impugná-la nos termos do art. 100 do CPC — conforme entendimento pacífico do Superior Tribunal de Justiça:
+
+> *"A gratuidade da justiça pode ser concedida com base em simples afirmação de hipossuficiência, a qual goza de presunção relativa de veracidade, podendo ser questionada pelo réu ou indeferida de ofício pelo juiz, se houver elementos nos autos que evidenciem a ausência dos pressupostos legais."* (STJ, AgInt no AREsp 1.671.293/SP)
+
+A Declaração de Hipossuficiência firmada pela Autora acompanha esta inicial como documento hábil a demonstrar sua condição financeira, fazendo jus à isenção de custas judiciais, emolumentos, despesas de intimação e perícia, nos termos do art. 98, § 1º, do CPC.
+
+Requer, portanto, a concessão dos benefícios da **gratuidade da justiça**, com dispensa do recolhimento das custas iniciais e demais despesas processuais, na forma do art. 98 do CPC.
+
+---
+
+## VI — DO VALOR DA CAUSA
 
 Atribui-se à presente causa o valor de **R$ 56.189,80** (cinquenta e seis mil, cento e oitenta e nove reais e oitenta centavos), correspondente à soma dos valores totais a pagar nas três CCBs (CPC art. 292, II), sem prejuízo da liquidação posterior dos valores a restituir.
 
