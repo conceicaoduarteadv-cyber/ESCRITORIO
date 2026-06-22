@@ -24,9 +24,9 @@ Ao longo dos 21 meses de vigência do contrato — de setembro de 2024 a abril d
 
 Em síntese: a Autora recebeu **R$ 5.000,00** e devolveu à Ré **R$ 13.276,29** — custo total do crédito de **R$ 8.276,29**, equivalente a **165,5% (cento e sessenta e cinco vírgula cinco por cento)** do valor principal recebido, em apenas 21 meses.
 
-Tal disparidade é produto direto da taxa de juros abusiva praticada pela Ré. Conforme dados públicos do Banco Central do Brasil, a taxa média de mercado para operações de **crédito pessoal não consignado** (Série SGS nº 25.465) no mês de julho de 2024 — mês da contratação — era de **2,92% ao mês (41,25% ao ano)**. A taxa efetiva real cobrada pela Ré (TIR de 10,9352% a.m.) é **3,74 (três vírgula setenta e quatro) vezes superior à taxa média de mercado**, configurando abusividade manifesta na acepção fixada pelo Superior Tribunal de Justiça no julgamento do REsp 1.061.530/RS.
+Tal disparidade é produto direto da taxa de juros abusiva praticada pela Ré. Conforme dados públicos do Banco Central do Brasil, a taxa média de mercado para operações de **crédito pessoal não consignado** (Série SGS nº 25.464) no mês de julho de 2024 — mês da contratação — era de **5,91% ao mês (99,18% ao ano)**. A taxa efetiva real cobrada pela Ré (TIR de 10,9352% a.m.) é **1,85 (uma vírgula oitenta e cinco) vezes superior à taxa média de mercado**, correspondendo a **85% (oitenta e cinco por cento) acima da média praticada para a mesma modalidade**, o que configura abusividade manifesta na acepção fixada pelo Superior Tribunal de Justiça no julgamento do REsp 1.061.530/RS.
 
-Recalculando-se as 21 parcelas contratuais à taxa justa de 2,92% ao mês sobre o mesmo principal de R$ 5.163,35, a parcela mensal seria de **R$ 332,38 (trezentos e trinta e dois reais e trinta e oito centavos)** e o total do contrato seria de **R$ 6.979,97 (seis mil, novecentos e setenta e nove reais e noventa e sete centavos)**. A diferença entre o que foi efetivamente pago (R$ 13.276,29) e o que deveria ter sido cobrado à taxa de mercado (R$ 6.979,97) corresponde ao **indébito de R$ 6.296,32 (seis mil, duzentos e noventa e seis reais e trinta e dois centavos)** que a Ré recebeu indevidamente e que ora se requer a restituição, conforme demonstrado no Memorial de Cálculos que acompanha esta peça (Doc. 5).
+Recalculando-se as 21 parcelas contratuais à taxa justa de 5,91% ao mês sobre o mesmo principal de R$ 5.163,35, a parcela mensal seria de **R$ 435,59 (quatrocentos e trinta e cinco reais e cinquenta e nove centavos)** e o total do contrato seria de **R$ 9.147,43 (nove mil, cento e quarenta e sete reais e quarenta e três centavos)**. A diferença entre o que foi efetivamente pago (R$ 13.276,29) e o que deveria ter sido cobrado à taxa de mercado (R$ 9.147,43) corresponde ao **indébito de R$ 4.128,86 (quatro mil, cento e vinte e oito reais e oitenta e seis centavos)** que a Ré recebeu indevidamente e que ora se requer a restituição, conforme demonstrado no Memorial de Cálculos que acompanha esta peça (Doc. 5).
 
 ---
 
@@ -45,23 +45,23 @@ O STF, no julgamento da ADI 2.591, confirmou a plena aplicação do CDC aos cont
 
 ### 2.2 Da abusividade dos juros remuneratórios — STJ Tema 27
 
-A taxa de juros remuneratórios contratada corresponde a **9,99% ao mês (213,50% ao ano)** — declarada —, embora a taxa efetiva real apurada pela TIR seja de **10,9352% ao mês (247,40% ao ano)**. Ambas as taxas superam em quase o dobro a taxa média de mercado aferida pelo Banco Central do Brasil para a mesma modalidade creditícia no mês da contratação.
+A taxa de juros remuneratórios contratada corresponde a **9,99% ao mês (213,50% ao ano)** — declarada —, embora a taxa efetiva real apurada pela TIR seja de **10,9352% ao mês (247,40% ao ano)**. Ambas as taxas superam em **mais de 85% (oitenta e cinco por cento)** a taxa média de mercado aferida pelo Banco Central do Brasil para a mesma modalidade creditícia no mês da contratação (SGS 25.464 — 5,91% a.m. / 99,18% a.a.).
 
 | Índice | Mensal | Anual |
 |---|---|---|
 | Taxa declarada (contrato) | 9,99% | 213,50% |
 | Taxa efetiva real (TIR) | 10,9352% | 247,40% |
-| **Taxa média BACEN — jul/2024 (SGS 25.465)** | **2,92%** | **41,25%** |
-| Excesso (TIR vs. BACEN) | 8,02 p.p. | — |
-| Excesso relativo | **274,5% acima** | — |
+| **Taxa média BACEN — jul/2024 (SGS 25.464)** | **5,91%** | **99,18%** |
+| Excesso (TIR vs. BACEN) | 5,03 p.p. | — |
+| Excesso relativo | **85,0% acima** | — |
 
-*Fonte: Série SGS nº 25.465 — Banco Central do Brasil. Consulta realizada em 22/06/2026.*
+*Fonte: Série SGS nº 25.464 — Banco Central do Brasil. Consulta realizada em 22/06/2026.*
 
 O Superior Tribunal de Justiça, no julgamento do REsp 1.061.530/RS (Tema Repetitivo nº 27), fixou a seguinte tese:
 
 > *"É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (juros excessivos) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."*
 
-O parâmetro de aferição da abusividade é a taxa média de mercado para a mesma modalidade de crédito, apurada pelo Banco Central (Res. BACEN nº 4.559/2017). A taxa efetiva real cobrada pela Ré supera em **114,4%** a taxa média de mercado — não se trata de excesso marginal, mas de cobrança sistematicamente mais que o dobro do praticado pelo mercado, situação que configura abusividade manifesta e autoriza a revisão judicial com fundamento no CDC (art. 6º, V) e no CC (art. 884 — vedação ao enriquecimento sem causa).
+O parâmetro de aferição da abusividade é a taxa média de mercado para a mesma modalidade de crédito, apurada pelo Banco Central (Res. BACEN nº 4.559/2017). A taxa efetiva real cobrada pela Ré supera em **85%** a taxa média de mercado — não se trata de excesso marginal, mas de cobrança que é praticamente o dobro do praticado pelo mercado para a mesma modalidade, situação que configura abusividade manifesta e autoriza a revisão judicial com fundamento no CDC (art. 6º, V) e no CC (art. 884 — vedação ao enriquecimento sem causa).
 
 ---
 
@@ -105,20 +105,20 @@ Ante o exposto, requer a Autora:
 
 **b)** A procedência do pedido, com julgamento de mérito, para:
 
-**b.1)** Declarar a **abusividade da taxa de juros remuneratórios** praticada no Contrato de Crédito Pessoal nº 13864630, por ser significativamente superior à taxa média de mercado para a modalidade de crédito pessoal não consignado apurada pelo Banco Central do Brasil na data da contratação (Série SGS nº 25.479 — julho/2024: 5,10% ao mês), nos termos do REsp 1.061.530/RS (STJ, Tema 27);
+**b.1)** Declarar a **abusividade da taxa de juros remuneratórios** praticada no Contrato de Crédito Pessoal nº 13864630, por ser significativamente superior à taxa média de mercado para a modalidade de crédito pessoal não consignado apurada pelo Banco Central do Brasil na data da contratação (Série SGS nº 25.464 — julho/2024: 5,91% ao mês / 99,18% ao ano), nos termos do REsp 1.061.530/RS (STJ, Tema 27);
 
 **b.2)** Declarar a **nulidade da divergência entre a taxa declarada (9,99% a.m.) e a taxa efetivamente cobrada (TIR: 10,9352% a.m.)**, por violação ao CDC, art. 6º, III, e à Res. CMN nº 3.517/2007, reconhecendo que a diferença de R$ 841,04 cobrada acima do próprio contrato é indevida;
 
 **b.3)** Declarar a **abusividade do IOF financiado** (R$ 163,35), sobre o qual a Ré indevidamente cobrou juros remuneratórios durante toda a vigência do contrato, nos termos do CDC, art. 51, IV;
 
-**b.4)** Condenar a Ré à **restituição do indébito apurado**, calculado como a diferença entre o total efetivamente pago pela Autora (R$ 13.276,29) e o total que deveria ter sido cobrado à taxa média de mercado de 5,10% ao mês (R$ 8.531,74), perfazendo o valor de **R$ 4.744,55 (quatro mil, setecentos e quarenta e quatro reais e cinquenta e cinco centavos)** — pedido principal —, ou, alternativamente:
+**b.4)** Condenar a Ré à **restituição do indébito apurado**, calculado como a diferença entre o total efetivamente pago pela Autora (R$ 13.276,29) e o total que deveria ter sido cobrado à taxa média de mercado de 5,91% ao mês (R$ 9.147,43), perfazendo o valor de **R$ 4.128,86 (quatro mil, cento e vinte e oito reais e oitenta e seis centavos)** — pedido principal —, ou, alternativamente:
 
 - No **Cenário B** (subsidiário): restituição de **R$ 3.269,36**, calculada com base na taxa máxima de 7,00% ao mês, que já contempla spread razoável acima da média BACEN;
-- No **Cenário C** (máximo): restituição de **R$ 5.014,46**, calculada com base na taxa BACEN de 5,10% ao mês sobre o principal efetivamente recebido em espécie (R$ 5.000,00), excluindo o IOF do principal financiado;
+- No **Cenário C** (máximo): restituição de **R$ 4.418,26**, calculada com base na taxa BACEN de 5,91% ao mês sobre o principal efetivamente recebido em espécie (R$ 5.000,00), excluindo o IOF do principal financiado;
 
 Todos os valores acima deverão ser corrigidos monetariamente pelo INPC desde a data de cada pagamento indevido e acrescidos de juros de mora de 1% ao mês a partir da citação, nos termos da Súmula 54 do STJ;
 
-**b.5)** Alternativamente ao pedido b.4, na hipótese de restar comprovada a má-fé da Ré, condenar à **restituição em dobro do indébito** no valor de **R$ 9.489,10 (nove mil, quatrocentos e oitenta e nove reais e dez centavos)**, nos termos do artigo 42, parágrafo único, do CDC e do STJ, Tema 929;
+**b.5)** Alternativamente ao pedido b.4, na hipótese de restar comprovada a má-fé da Ré, condenar à **restituição em dobro do indébito** no valor de **R$ 8.257,72 (oito mil, duzentos e cinquenta e sete reais e setenta e dois centavos)**, nos termos do artigo 42, parágrafo único, do CDC e do STJ, Tema 929;
 
 **c)** A condenação da Ré ao pagamento das **custas processuais e honorários advocatícios**, nos termos do artigo 85 do Código de Processo Civil;
 
@@ -127,7 +127,7 @@ Todos os valores acima deverão ser corrigidos monetariamente pelo INPC desde a 
 - Pericial contábil, para conferência independente dos cálculos do indébito e apuração da TIR efetiva praticada;
 - Juntada de informações pelo Banco Central do Brasil sobre a Série SGS nº 25.479 (taxa média de crédito pessoal não consignado) para o mês de julho de 2024.
 
-**Dá-se à causa o valor de R$ 4.744,55 (quatro mil, setecentos e quarenta e quatro reais e cinquenta e cinco centavos)**, correspondente ao indébito apurado no Cenário A (pedido principal).
+**Dá-se à causa o valor de R$ 4.128,86 (quatro mil, cento e vinte e oito reais e oitenta e seis centavos)**, correspondente ao indébito apurado no Cenário A (pedido principal).
 
 Nestes termos,
 Pede deferimento.
