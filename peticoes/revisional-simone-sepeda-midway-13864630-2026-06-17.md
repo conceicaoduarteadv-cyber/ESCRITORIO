@@ -2,7 +2,7 @@ EXCELENTÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DE DIREITO DA VARA CÍVEL DA COMA
 
 ---
 
-SIMONE MARQUES MARTINS SEPEDA, brasileira, estado civil [A PREENCHER], profissão [A PREENCHER], portadora do RG nº 040825 — POLITEC/AP e CPF nº 324.863.672-68, residente e domiciliada na Av. Carlos Gomes, nº 301-C, Bairro Jesus de Nazaré, Macapá/AP, CEP 68.908-125, por meio de sua advogada que esta subscreve, vem, respeitosamente, à presença de Vossa Excelência, propor a presente
+SIMONE MARQUES MARTINS SEPEDA, brasileira, solteira, autônoma, portadora do RG nº 040825 — POLITEC/AP e CPF nº 324.863.672-68, residente e domiciliada na Av. Carlos Gomes, nº 301-C, Bairro Jesus de Nazaré, Macapá/AP, CEP 68.908-125, por meio de sua advogada que esta subscreve, vem, respeitosamente, à presença de Vossa Excelência, propor a presente
 
 **AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO CUMULADA COM REPETIÇÃO DE INDÉBITO**
 
