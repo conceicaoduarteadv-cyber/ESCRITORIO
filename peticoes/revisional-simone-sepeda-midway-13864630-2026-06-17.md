@@ -24,9 +24,9 @@ Ao longo dos 21 meses de vigência do contrato — de setembro de 2024 a abril d
 
 Em síntese: a Autora recebeu **R$ 5.000,00** e devolveu à Ré **R$ 13.276,29** — custo total do crédito de **R$ 8.276,29**, equivalente a **165,5% (cento e sessenta e cinco vírgula cinco por cento)** do valor principal recebido, em apenas 21 meses.
 
-Tal disparidade é produto direto da taxa de juros abusiva praticada pela Ré. Conforme dados públicos do Banco Central do Brasil, a taxa média de mercado para operações de **crédito pessoal não consignado** (Série SGS nº 25.479) no mês de julho de 2024 — mês da contratação — era de **5,10% ao mês (81,65% ao ano)**. A taxa cobrada pela Ré corresponde a **96% (noventa e seis por cento) acima da média de mercado para a mesma modalidade**, o que configura abusividade na acepção fixada pelo Superior Tribunal de Justiça no julgamento do REsp 1.061.530/RS.
+Tal disparidade é produto direto da taxa de juros abusiva praticada pela Ré. Conforme dados públicos do Banco Central do Brasil, a taxa média de mercado para operações de **crédito pessoal não consignado** (Série SGS nº 25.465) no mês de julho de 2024 — mês da contratação — era de **2,92% ao mês (41,25% ao ano)**. A taxa efetiva real cobrada pela Ré (TIR de 10,9352% a.m.) é **3,74 (três vírgula setenta e quatro) vezes superior à taxa média de mercado**, configurando abusividade manifesta na acepção fixada pelo Superior Tribunal de Justiça no julgamento do REsp 1.061.530/RS.
 
-Recalculando-se as 21 parcelas contratuais à taxa justa de 5,10% ao mês sobre o mesmo principal de R$ 5.163,35, a parcela mensal seria de **R$ 406,27 (quatrocentos e seis reais e vinte e sete centavos)** e o total do contrato seria de **R$ 8.531,74 (oito mil, quinhentos e trinta e um reais e setenta e quatro centavos)**. A diferença entre o que foi efetivamente pago (R$ 13.276,29) e o que deveria ter sido cobrado à taxa de mercado (R$ 8.531,74) corresponde ao **indébito de R$ 4.744,55 (quatro mil, setecentos e quarenta e quatro reais e cinquenta e cinco centavos)** que a Ré recebeu indevidamente e que ora se requer a restituição, conforme demonstrado no Memorial de Cálculos que acompanha esta peça (Doc. 5).
+Recalculando-se as 21 parcelas contratuais à taxa justa de 2,92% ao mês sobre o mesmo principal de R$ 5.163,35, a parcela mensal seria de **R$ 332,38 (trezentos e trinta e dois reais e trinta e oito centavos)** e o total do contrato seria de **R$ 6.979,97 (seis mil, novecentos e setenta e nove reais e noventa e sete centavos)**. A diferença entre o que foi efetivamente pago (R$ 13.276,29) e o que deveria ter sido cobrado à taxa de mercado (R$ 6.979,97) corresponde ao **indébito de R$ 6.296,32 (seis mil, duzentos e noventa e seis reais e trinta e dois centavos)** que a Ré recebeu indevidamente e que ora se requer a restituição, conforme demonstrado no Memorial de Cálculos que acompanha esta peça (Doc. 5).
 
 ---
 
@@ -51,11 +51,11 @@ A taxa de juros remuneratórios contratada corresponde a **9,99% ao mês (213,50
 |---|---|---|
 | Taxa declarada (contrato) | 9,99% | 213,50% |
 | Taxa efetiva real (TIR) | 10,9352% | 247,40% |
-| **Taxa média BACEN — jul/2024** | **5,10%** | **81,65%** |
-| Excesso (TIR vs. BACEN) | 5,84 p.p. | — |
-| Excesso relativo | **114,4% acima** | — |
+| **Taxa média BACEN — jul/2024 (SGS 25.465)** | **2,92%** | **41,25%** |
+| Excesso (TIR vs. BACEN) | 8,02 p.p. | — |
+| Excesso relativo | **274,5% acima** | — |
 
-*Fonte: Série SGS nº 25.479 — Banco Central do Brasil. Consulta realizada em 17/06/2026.*
+*Fonte: Série SGS nº 25.465 — Banco Central do Brasil. Consulta realizada em 22/06/2026.*
 
 O Superior Tribunal de Justiça, no julgamento do REsp 1.061.530/RS (Tema Repetitivo nº 27), fixou a seguinte tese:
 
