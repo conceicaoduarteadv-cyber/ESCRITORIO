@@ -46,9 +46,13 @@ pelos fatos e fundamentos jurídicos que passa a expor.
 
 > *"A Credora ou terceiro por ela contratado poderá desligar os Equipamentos remotamente, fazendo com que eles parem de produzir energia fotovoltaica, de modo que Você passará a consumir integralmente a energia elétrica fornecida pela concessionária local."*
 
-**5.** O Autor encontra-se em dificuldades financeiras e, temendo a execução da referida cláusula pelas Rés — que pode ocorrer **a qualquer momento, sem qualquer provimento judicial prévio** —, busca a proteção jurisdicional de forma urgente, antes que o dano se consume.
+**5.** O contrato originalmente estipulava 60 parcelas mensais de R$ 4.709,60, com vencimento a partir de 23/05/2024. Diante das condições onerosas impostas pelas Rés — CET de 38,75% ao ano e encargos que elevam o total pago a R$ 282.576,00, mais que o dobro do valor liberado —, o Autor buscou **renegociação** junto à credora, encontrando-se atualmente adimplente nos termos do acordo celebrado.
 
-**6.** O desligamento remoto, a se efetivar, causaria ao Autor prejuízo diário e imediato: cessação completa da geração fotovoltaica, com retorno ao consumo integral da rede da concessionária local (LINEA/CEA), gerando **duplo encargo mensal** — o da parcela do financiamento que continua vencendo e o da conta de energia elétrica integral.
+**6.** Não obstante a adimplência atual, o dispositivo eletrônico "Ampera" **permanece instalado** no sistema fotovoltaico do Autor e **operacional** — apto a executar o desligamento remoto a qualquer momento em que as Rés, a seu exclusivo critério, assim decidirem, independentemente de qualquer provimento judicial.
+
+**7.** O sistema fotovoltaico está em pleno funcionamento, gerando energia e produzindo a compensação prevista perante a concessionária local. A eventual ativação do Ampera pelas Rés cessaria imediatamente toda a geração, causando ao Autor **prejuízo diário e contínuo** — sem que haja qualquer mecanismo legal que obrigue as Rés a prévia notificação ou autorização judicial para tanto.
+
+**8.** É exatamente para prevenir esse ato ilícito iminente — consubstanciado em cláusula contratual nula que permanece ativa — que o Autor busca a tutela jurisdicional, antes que o dano se consume e torne inútil qualquer providência posterior.
 
 ---
 
@@ -106,17 +110,23 @@ pelos fatos e fundamentos jurídicos que passa a expor.
 
 **(iv) Cláusula de irresponsabilidade pelo inadimplemento do fornecedor** — o item 1(e) da CCB isenta as Rés de qualquer responsabilidade caso o fornecedor não entregue ou não instale adequadamente o sistema, violando a responsabilidade solidária dos fornecedores na cadeia de consumo (CDC, art. 34; STJ, REsp 1.786.157).
 
-### 2.4. Do Perigo de Dano — Periculum in Mora
+### 2.4. Da Tutela Inibitória — Independência em Relação ao Dano
 
-**17.** O perigo de dano é **concreto, atual e irreparável** pela via ordinária:
+**17.** A presente tutela é de **natureza inibitória**, voltada à prevenção de ato ilícito ainda não consumado, o que afasta a necessidade de demonstração de dano efetivo ou de sua extensão. É o que dispõe expressamente o art. 497, parágrafo único, do CPC:
 
-**a) Imediatidade:** a cláusula contratual confere às Rés a faculdade de proceder ao desligamento **a qualquer momento e sem qualquer aviso prévio judicial** — o simples atraso no pagamento de uma parcela já autoriza, contratualmente, a execução da medida;
+> *"Para a tutela inibitória e a tutela de remoção de ilícito, é irrelevante a demonstração da ocorrência de dano ou de sua extensão."*
 
-**b) Duplo encargo:** o desligamento não extingue a obrigação de pagar as parcelas do financiamento — o Autor ficaria obrigado a pagar simultaneamente as prestações da CCB e a conta integral de energia elétrica à concessionária, tornando sua situação financeira ainda mais gravosa;
+**18.** Assim, basta a demonstração da **ameaça concreta e atual do ato ilícito** — e ela está presente na própria literalidade da cláusula contratual impugnada, que confere às Rés a prerrogativa de desligar remotamente o sistema a qualquer momento, a seu exclusivo critério, sem processo judicial.
 
-**c) Dano de difícil reparação:** o sistema de 55,55 kWp, uma vez desligado remotamente, deixa de compensar o consumo de energia; o dano acumulado (custo da energia não gerada) é de apuração complexa e não se resolve pela simples religação posterior do sistema;
+**19.** O perigo de frustração do resultado útil do processo (CPC, art. 300) decorre dos seguintes fatores objetivos:
 
-**d) Natureza preventiva adequada:** o dano ainda não ocorreu — a tutela inibitória (CPC, art. 497, parágrafo único) é exatamente o instrumento processual adequado para **prevenir o ato ilícito**, não sendo necessário aguardar sua consumação para obter proteção judicial.
+**a) Operacionalidade imediata do Ampera:** o dispositivo de desligamento remoto está instalado e ativo no sistema fotovoltaico do Autor. Não há qualquer barreira técnica ou jurídica — fora esta ação — que impeça as Rés de o acionarem;
+
+**b) Ausência de exigência de inadimplência atual:** a própria CCB (item 5) lista como hipóteses de "vencimento antecipado" situações amplíssimas, como *"mudança adversa na condição financeira, legal ou reputacional"* do devedor — redação de tamanha vagueza que confere às Rés discricionariedade quase irrestrita para acionar o desligamento;
+
+**c) Dano de difícil reparação após consumado:** uma vez desligado o sistema, o Autor passará a arcar com a conta integral da concessionária local enquanto continua devendo as parcelas do financiamento — duplo encargo financeiro que, pelo tempo em que perdurar, gera dano acumulado de difícil apuração e restituição;
+
+**d) Inutilidade da tutela após o evento:** se o desligamento ocorrer durante o trâmite da ação, a religação posterior não reparará o dano já causado — tornando inútil qualquer medida reparatória e frustrando o resultado prático do processo (CPC, art. 300, in fine).
 
 ### 2.5. Da Adequação da Astreinte
 
@@ -128,9 +138,15 @@ pelos fatos e fundamentos jurídicos que passa a expor.
 
 **O Autor requer:**
 
-### A) TUTELA DE URGÊNCIA LIMINAR — SEM OITIVA DAS RÉS (CPC, art. 300, § 2º)
+### A) TUTELA DE URGÊNCIA INIBITÓRIA LIMINAR — SEM OITIVA DAS RÉS (CPC, arts. 300, 497, parágrafo único, e 536)
 
-Que Vossa Excelência, **inaudita altera parte**, conceda tutela de urgência de natureza inibitória, **determinando às Rés — BMP MONEY PLUS SOCIEDADE DE CRÉDITO DIRETO S.A. e SOLFÁCIL ENERGIA SOLAR TECNOLOGIA & SERVIÇOS FINANCEIROS LTDA. — que se abstenham, de imediato e durante todo o trâmite desta ação, de proceder ao desligamento remoto do sistema fotovoltaico instalado na Avenida dos Aimorés, nº 67, Bairro Beirol, Macapá-AP, CEP 68.902-140**, seja por meio do dispositivo "Ampera" ou por qualquer outro meio tecnológico ou físico, **sob pena de multa diária de R$ 1.000,00 (mil reais) por dia de descumprimento**, sem prejuízo da apuração de responsabilidade civil.
+Que Vossa Excelência, **inaudita altera parte**, conceda **tutela de urgência de natureza inibitória**, com fundamento nos arts. 300, 497, parágrafo único, e 536 do CPC — sendo **irrelevante a demonstração de dano efetivo ou de sua extensão** (CPC, art. 497, parágrafo único) —, determinando:
+
+**(i)** que as Rés **BMP MONEY PLUS SOCIEDADE DE CRÉDITO DIRETO S.A.** e **SOLFÁCIL ENERGIA SOLAR TECNOLOGIA & SERVIÇOS FINANCEIROS LTDA.** se abstenham, de imediato e durante todo o trâmite desta ação, de proceder ao **desligamento remoto do sistema fotovoltaico** instalado na Avenida dos Aimorés, nº 67, Bairro Beirol, Macapá-AP, CEP 68.902-140, seja por meio do dispositivo "Ampera", seja por qualquer outro meio tecnológico, eletrônico ou físico;
+
+**(ii)** que as Rés **mantenham o sistema fotovoltaico em pleno funcionamento**, sem qualquer intervenção que comprometa sua capacidade de geração de energia fotovoltaica, durante o trâmite desta ação;
+
+**(iii)** a imposição de **multa diária (astreinte) de R$ 1.000,00 (mil reais) por dia de descumprimento**, podendo ser majorada por Vossa Excelência se verificado descumprimento reiterado, nos termos do art. 537 do CPC, sem prejuízo da responsabilidade civil por perdas e danos.
 
 ### B) NO MÉRITO
 
@@ -184,7 +200,7 @@ Pede deferimento.
 ---
 
 **Conceição Maria Duarte Portilho**
-Advogada — OAB/AP ___
+Advogada — OAB/AP 3.576
 conceicaoduarte.adv@gmail.com
 
 ---
